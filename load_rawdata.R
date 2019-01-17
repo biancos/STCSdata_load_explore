@@ -8,7 +8,7 @@
 
 
 #set the working directory to the folder where you saved all raw data downloaded from stcs.ch
-setwd("M:/MEDIZIN/STCS/00_CDM/Queries/Instructional_material/raw_data/")
+setwd("")
 
 #read the names of all txt file in the working directory into a list
 filelist = list.files(pattern = ".*.txt")
